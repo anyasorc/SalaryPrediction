@@ -1,6 +1,6 @@
 # SalaryPrediction
 The purpose of this project is to help those aspiring to join the data science field easily understand what it takes to turn a model into an API.
-This implies that they will learn how to create a python code to read in the target dateset and pass the values to a model (Linear regression model) and test.
+This implies that they will learn how to create a python code to read in the target dataset and pass the values to a model (Linear regression model) and test.
 Eventually, the model is converted to an API that can then be called via an app or postman.
 
 
