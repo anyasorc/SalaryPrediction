@@ -7,7 +7,7 @@ from sklearn import metrics
 import pickle
 
 
-ds = pd.read_csv('/Users/anyasorc/python/data/Salary_Data.csv')
+ds = pd.read_csv('insert your path to the dataset')
 print(ds.shape)
 X = ds.iloc[:, 0:1].values
 y = ds.iloc[:, 1].values
